@@ -26,6 +26,7 @@
 [Andy Mair - Associate Software Engineer](#Andy)\
 [Dana Românu - Associate Technology Specialist](#Dana)\
 [Henry Mason - Software Engineer](#Henry)
+[Parul Chhabra - Managing Developer] (#Parul)
 
 ### Sarah
 
